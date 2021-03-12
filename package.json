@@ -1,0 +1,20 @@
+{
+  "name": "teste-thoughtworks",
+  "version": "1.0.0",
+  "description": "Projeto teste para ThoughtWorksInc",
+  "main": "app/main.js",
+  "scripts": {
+    "test": "mocha test/**/*spec.js",
+    "test:watch": "mocha test/**/*spec.js --watch"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "moment": "^2.29.1"
+  },
+  "author": {
+    "name": "Thiago Adriano",
+    "email": "thiago.s.adriano@gmail.com"
+  },
+  "license": "ISC"
+}

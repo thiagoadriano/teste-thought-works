@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Parque das flores",
+    "rating": 3,
+    "price": {
+      "week": {
+        "regularCustomer": 110,
+        "fidelityCustomer": 80
+      },
+      "weekEnd" : {
+        "regularCustomer": 90,
+        "fidelityCustomer": 80
+      }
+    }
+  },
+  {
+    "name": "Jardim Botânico",
+    "rating": 4,
+    "price": {
+      "week": {
+        "regularCustomer": 160,
+        "fidelityCustomer": 110
+      },
+      "weekEnd" : {
+        "regularCustomer": 60,
+        "fidelityCustomer": 50
+      }
+    }
+  },
+  {
+    "name": "Mar Atlântico",
+    "rating": 5,
+    "price": {
+      "week": {
+        "regularCustomer": 220,
+        "fidelityCustomer": 100
+      },
+      "weekEnd" : {
+        "regularCustomer": 150,
+        "fidelityCustomer": 40
+      }
+    }
+  }
+]
